@@ -290,4 +290,4 @@ def launch():
 
 # start_tcp_server('172.20.10.2', 6000)
 #websocket_server('192.168.1.115', 6000)
-register()
+launch()
